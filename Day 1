@@ -1,0 +1,11 @@
+#include<stdio.h>
+main()
+{
+float len, bre, area;
+clrscr();
+printf(“Enter the values of len and bre”);
+scanf(“%f%f”,&len, &bre);
+area = len*bre;
+printf(“area of rectangle is = %f, area);
+getch();
+}
